@@ -1,0 +1,17 @@
+body {
+    background-color: linear-gradient(to right, #6a11cb, #2575fc);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.btn-primary:hover{
+    background-color: 0056b3;
+    border-color: 004999;
+}
